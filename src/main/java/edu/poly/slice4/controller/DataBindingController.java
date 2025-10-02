@@ -20,4 +20,5 @@ public class DataBindingController {
         model.addAttribute("message", "Student saved successfully!");
         return "/demo/student";
     }
+
 }
